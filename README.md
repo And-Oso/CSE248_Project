@@ -1,2 +1,2 @@
 # CSE248_Project
-Project repo for CSE248
+A repository for my CSE 248 Project
