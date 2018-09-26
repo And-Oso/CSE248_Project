@@ -1,4 +1,6 @@
-# CSE248_Project
+# CSE248 Project
+Project Repository for Andy Osorio
+
 This CSE248 Project is a simple tower defense game. The basic premise of the game is like any otehr tower defense game: Defend your self from waves of enemies that get progressively harder with each wave.
 
 ## Planned Gameplay features
